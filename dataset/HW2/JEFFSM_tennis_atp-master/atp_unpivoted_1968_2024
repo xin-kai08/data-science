@@ -1,0 +1,2 @@
+
+Attributes - tourney_id, tourney_name, surface, tourney_level, tourney_date, match_num, player_id, player_seed, player_entry, player_name, player_age, opponent_id, opponent_seed, opponent_entry, opponent_name, opponent_age, result, score, round, player_rank, opponent_rank
